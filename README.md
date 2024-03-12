@@ -16,6 +16,9 @@ Introducing a customizable drinking game mode that promises fun, inclusivity, an
 **Point System:**
 - The person with the highest points at the end of each round becomes the king/queen, gaining the power to add a rule to the game. Points are updated after each round.
 
+**Custom Rounds**
+-Players have the option to select the number of rounds they wish to participate in.
+
 **DIY Drink Recipes (Non-Alcoholic & Alcoholic):**
 - The person with the lowest points has to drink a DIY Drink. Everyone else contributes a single ingredient/type of liquid (liquor, soda, milk, hot sauce, etc.) to the concoction.
 
