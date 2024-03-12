@@ -11,6 +11,7 @@ Introducing a customizable drinking game mode that promises fun, inclusivity, an
 - Truth or Dare
 - Racegame
 - Category
+- Memory game
 
 **Point System:**
 - The person with the highest points at the end of each round becomes the king/queen, gaining the power to add a rule to the game. Points are updated after each round.
