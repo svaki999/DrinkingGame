@@ -26,3 +26,6 @@ Introducing a customizable drinking game mode that promises fun, inclusivity, an
 
 ---
 
+## Mock Up
+![MockupDG](https://github.com/svaki999/DrinkingGame/assets/117731913/48d21011-11b8-4a73-a6a7-b2ed54437d52)
+
