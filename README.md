@@ -26,7 +26,7 @@ Introducing a customizable drinking game mode that promises fun, inclusivity, an
 - Perfect for getting to know new friends or colleagues, with a variety of engaging and fun prompts to break the ice.
 
 ---
-The first question you will see when the app loads is whether you are playing in a familiar or non-familiar group. Then, it goes on to the part where you need to find out if there are any alcohol-free persons. After that, you are faced with the interface of the gamemode, where you choose which gamemodes you will play. Among these, you may choose to play all the gamemodes, some of them, or even just one. This done, the game begins. 
+When the app loads the first question you will see is whether you are playing in a familiar or non-familiar group. Then, you proceed to finding out if there are any alcohol-free persons. Afterwards, you are faced with the interface of the gamemode, where you choose which gamemodes you will play. Among these, you may choose to play all, some of them, or even just one. The game begins after the selection. 
 
 ## Mock Up
 ![MockupDG](https://github.com/svaki999/DrinkingGame/assets/117731913/48d21011-11b8-4a73-a6a7-b2ed54437d52)
