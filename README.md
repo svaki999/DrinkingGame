@@ -9,6 +9,7 @@ Introducing a customizable drinking game mode that promises fun, inclusivity, an
 **Game Modes:**
 - Questions
 - Truth or Dare
+- Category
 - Racegame
 - Memory game
 - Tic Tac Toe 1v1s
